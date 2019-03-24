@@ -1,0 +1,7 @@
+# Nmap 7.70 scan initiated Sat Jan 26 06:30:03 2019 as: nmap -sP -oA pingTaramasi2 192.168.79.0/24
+Host: 192.168.79.1 ()	Status: Up
+Host: 192.168.79.2 ()	Status: Up
+Host: 192.168.79.141 ()	Status: Up
+Host: 192.168.79.254 ()	Status: Up
+Host: 192.168.79.138 ()	Status: Up
+# Nmap done at Sat Jan 26 06:30:10 2019 -- 256 IP addresses (5 hosts up) scanned in 6.18 seconds

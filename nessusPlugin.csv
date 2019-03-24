@@ -1,0 +1,251 @@
+Resin Status Page Information Disclosure|11930
+My_eGallery < 3.1.1g Remote File Inclusion|11931
+ISC BIND < 8.3.7 / 8.4.3 Negative Record Cache Poisoning|11932
+Do not scan printers|11933
+Xitami Malformed POST Request Infinite Loop Remote DoS|11934
+IPSEC Internet Key Exchange (IKE) Version 1 Detection|11935
+OS Identification|11936
+mod_python < 2.7.9 / 3.0.4 Malformed Query String DoS|11937
+phpBB < 2.0.7 Multiple Script SQL Injection|11938
+Foxweb foxweb.exe / foxweb.dll Long URL Remote Overflow|11939
+CuteNews Debug Info Disclosure|11940
+Linksys WRT54G Empty GET Request Remote DoS|11941
+VP-ASP shopsearch SQL Injection|11942
+rsync < 2.5.7 Unspecified Remote Heap Overflow|11943
+Ebola AV Daemon < 0.1.5 Authentication Sequence Remote Overflow|11946
+CVS pserver Crafted Module Request Arbitrary File / Directory Creation|11947
+Avotus CDR mm Arbitrary File Retrieval|11948
+DNS Server Fingerprinting|11951
+Flash Player < 7.0.19.0 Predictable Data Location Weakness|11952
+SGDynamo sgdynamo.exe HTNAME Parameter Path Disclosure|11954
+SGDynamo sgdynamo.exe HTNAME XSS|11955
+PHP-Ping php-ping.php count Parameter Arbitrary Command Execution|11966
+PHPCatalog id Parameter SQL Injection|11969
+CVS PServer CVSROOT Passwd File Arbitrary Code Execution|11970
+miniBB bb_func_usernfo.php Website Name Field XSS|11972
+BulletScript MailList bsml.pl Information Disclosure|11973
+Jordan's Windows Telnet Server Password Handling Remote Overflow|11974
+QuikStore Shopping Cart quikstore.cgi template Parameter Traversal Arbitrary File Access|11975
+EasyDynamicPages Multiple Script edp_relative_path Parameter Remote File Inclusion|11976
+HotNews Multiple Script Remote File Inclusion|11979
+Compaq Web-Based Management Agent Remote Overflow DoS|11980
+vBulletin calendar.php eventid Parameter SQL Injection|11981
+KpyM Telnet Server DoS|11983
+INN < 2.4.1 Control Message Handling Code Overflow|11984
+Zope < 2.6.3 Multiple Vulnerabilities|11985
+MS04-002: Exchange Privilege Escalation (832759)|11989
+MS04-003: MDAC Buffer Overflow (832483)|11990
+MS04-001: Vulnerability in Microsoft ISA Server 2000 H.323 Filter(816458)|11992
+Yahoo Messenger Detection|11993
+AUREATE Software Detection|11994
+BONZI BUDDY Software Detection|11995
+Brilliant Digital Software Detection|11996
+DSSAGENT Software Detection|11997
+GATOR Detection|11998
+RADIATE Detection|11999
+SAHAGENT Detection|12000
+SaveNOW Detection|12001
+LOP.COM Detection|12002
+TIMESINK Spyware Detection|12003
+VCATCH Spyware Detection|12004
+WEBHANCER Detection|12005
+Web3000 Detection|12006
+APSIS Pound Load Balancer Format String Overflow|12007
+PhpDig config.php relative_script_path Parameter Remote File Inclusion|12008
+BargainBuddy Software Detection|12010
+BetterInternet Software Detection|12011
+CYDOOR Software Detection|12012
+DOWNLOADWARE Software Detection|12013
+Free Community Detection|12014
+IPINSIGHT Detection|12015
+MapQuest Toolbar Detection|12016
+NCASE Software Detection|12017
+POWER SEARCH Detection|12018
+WILDTANGENT detection|12019
+XTreme ASP Photo Gallery adminlogin.asp Multiple Parameter SQL Injection|12020
+Cisco IOS H.323 Protocol Implementation Flaws|12023
+Mambo mod_mainmenu.php mosConfig_absolute_path Parameter Remote File Inclusion|12025
+PHPix index.phtml Multiple Parameter Arbitrary Command Execution|12026
+Bagle Worm Removal|12027
+Microsoft Windows SMB : WindowsUpdate Disabled|12028
+MyDoom Virus Backdoor Detection|12029
+Gallery HTTP Global Variables File Inclusion|12030
+Aprox PHP Portal index.php Arbitrary File View|12031
+JBrowser _admin/ Direct Request Admin Authentication Bypass|12032
+Leif Wright Web Blog blog.cgi ViewFile Request file Parameter Arbitrary Command Execution|12033
+phpGedView Arbitrary File Access / Remote File Inclusion|12034
+PJ CGI Neo PJreview_Neo.cgi p Parameter Traversal Arbitrary File Access|12035
+Finjan SurfinGate Proxy FHTTP Command Admin Functions Authentication Bypass|12036
+Serv-U SITE CHMOD Command Multiple Vulnerabilities|12037
+Photopost PHP Pro photo Parameter SQL Injection|12038
+Cisco IOS 6000/6500/7600 Series Layer 2 Frame DoS (CSCdy15598, CSCeb56052)|12039
+Qualiteam X-Cart Multiple Script perl_binary Parameter Arbitrary Command Execution|12040
+phpMyAdmin export.php what Parameter Traversal Arbitrary File Access|12041
+ReviewPost PHP Pro Multiple Script SQL Injections|12042
+BEA WebLogic config.xml Operator/Admin Password Disclosure|12043
+RealPlayer File Handler Arbitrary Code Execution|12044
+Mambo Site Server itemid Parameter XSS|12045
+Apache-SSL SSLVerifyClient SSLFakeBasicAuth Client Certificate Forgery|12046
+Oracle Database 9i Multiple Functions Local Overflow|12047
+Novell NetWare Web Server sewse.nlm (viewcode.jse) Traversal Arbitrary File Access|12048
+Novonyx Web Server Multiple Sample Application Files Present|12049
+Novell NetBasic Scripting Server Encoded Traversal Arbitrary File Access|12050
+MS04-006: WINS Server Remote Overflow (830352)|12051
+MS04-007: ASN.1 parsing vulnerability (828028)|12052
+Host Fully Qualified Domain Name (FQDN) Resolution|12053
+MS04-007: ASN.1 Vulnerability Could Allow Code Execution (828028) (uncredentialed check) (NTLM)|12054
+MS04-007: ASN.1 Vulnerability Could Allow Code Execution (828028) (uncredentialed check) (HTTP)|12055
+Xlight FTP Server Multiple Remote Overflows|12056
+ASP Portal User Profile XSS|12057
+vBulletin search.php query Parameter XSS|12058
+SandSurfer < 1.7.0 User Authentication Bypass|12059
+Crob FTP Server Connection Saturation Remote DoS|12060
+Sami FTP Server Multiple DoS|12061
+Ecommerce Corp. Online Store Kit 3.0 Multiple Vulnerabilities|12062
+Bagle.B Worm Detection|12063
+ShopCartCGI Multiple Script Traversal Arbitrary File Access|12064
+ASN.1 Multiple Integer Overflows (SMTP check)|12065
+APC SmartSlot Web/SNMP Management Card Default Password|12066
+Oracle Multiple Products SOAP Message Crafted DTD Remote DoS|12067
+X-News Password MD5 Hash Authentication Bypass|12068
+SMC2804WBR Router Default Password (smcadmin)|12069
+Jigsaw < 2.2.4 Unspecified URI Parsing Unspecified Vulnerability|12071
+smallftpd 1.0.3 Multiple DoS|12072
+Sami HTTP Server 1.0.4 GET Request Remote Overflow|12073
+TalentSoft Web+ webplus.exe Path Disclosure|12074
+TYPSoft FTP Server 1.10 Invalid Path Request DoS|12075
+Trillian DirectIM Packet Remote Overflow|12076
+Netscape Enterprise Server Default Files Present|12077
+Serv-U MDTM Command Overflow|12080
+GameSpy SDK Malformed \query\ Request Overflow DoS|12081
+Robo-FTP Pre-authentication Command Execution DoS|12082
+WFTP 3.21 Multiple Vulnerabilities (OF, DoS)|12083
+Check Point FireWall-1 4.x Multiple Vulnerabilities (OF, FS)|12084
+Apache Tomcat Default Files|12085
+DreamFTP Server username Remote Format String|12086
+SandSurfer < 1.7.1 XSS|12087
+SpiderSales Shopping Cart SQL injection|12088
+HotOpentickets Privilege Escalation|12089
+MS04-008: Windows Media Services Remote Denial of Service (832359)|12090
+MS04-010: MSN Messenger Information Disclosure (838512)|12091
+MS04-009: Vulnerability in Outlook could allow code execution (828040)|12092
+phpBB < 2.0.7 Multiple XSS|12093
+vHost < 3.10r1 Unspecified XSS|12094
+Emumail WebMail Multiple Remote Vulnerabilities (XSS, Disc)|12095
+cfWebStore Multiple Vulnerabilities (SQLi, XSS)|12096
+cPanel <= 9.1.0 Multiple Vulnerabilities|12097
+WU-FTPD restricted-gid Directory Access Restriction Bypass|12098
+F-Secure SSH Password Authentication Policy Evasion|12099
+Apache 2.0.x < 2.0.49 mod_ssl Plain HTTP Request DoS|12100
+Invision Power Board index.php pop Parameter XSS|12101
+Courier < 0.45 Multiple Remote Overflows|12102
+Novell NetWare LDAP Server Anonymous Bind|12104
+McAfee Antivirus Detection and Status|12107
+WS_FTP Pro Client ASCII Mode Directory Listing Handling Overflow|12108
+OpenSSL < 0.9.6m / 0.9.7d Multiple Remote DoS|12110
+PhatBOT Backdoor Detection|12111
+Oracle 9iAS iSQLplus XSS|12112
+Web Server PROPFIND Method Internal IP Disclosure|12113
+ISS BlackICE Multiple Remote Vulnerabilities|12114
+Unreal Tournament Server Detection|12115
+Default Password (swift) for 'swift' Account|12116
+HALO Network Server Detection|12117
+Multiple BSD ipfw / ip6fw ECE Bit Filtering Evasion|12118
+Novell NetWare 6.0 Tomcat source.jsp Traversal Arbitrary File Access|12119
+HP Web JetAdmin setinfo.hts setinclude Parameter Traversal Arbitrary File Access|12120
+Kame Racoon Invalid Cookie Handling Remote DoS|12121
+Novell Groupwise Servlet Manager Default Password|12122
+Apache Tomcat source.jsp Arbitrary Directory Listing|12123
+Squid %xx URL Encoding ACL Bypass|12124
+oftpd PORT Command Remote DoS|12125
+Oracle Application Server Web Cache <= 9.0.4.0 Multiple Vulnerabilities|12126
+Aborior Encore WebForum display.cgi file Parameter Command Execution|12127
+Agobot.FO Backdoor Detection|12128
+Ultimate PHP Board add.php Direct Request Information Disclosure|12198
+Cisco IPSec VPNSM IKE Packet DoS (CSCed30113)|12199
+Web Server Incomplete Basic Authentication DoS|12200
+Web Server HTTP Basic Authorization Header Remote Overflow DoS|12201
+Nuked-Klan index.php user_langue Parameter Traversal Arbitrary File Access|12202
+Web Application Default Username ('super'/'1502') / Password ('super'/'1502')|12203
+MS04-011: Microsoft Windows SSL Library Malformed Message Remote DoS (835732) (uncredentialed check)|12204
+MS04-011: Microsoft Hotfix (credentialed check) (835732)|12205
+MS04-012: Microsoft Hotfix (credentialed check) (828741)|12206
+MS04-014: Microsoft Hotfix (credentialed check) (837001)|12207
+MS04-013: Cumulative Update for Outlook Express (837009)|12208
+MS04-011: Security Update for Microsoft Windows (835732) (uncredentialed check)|12209
+Helix RealServer HTTP GET Request DoS|12210
+CVS Client Traversal Arbitrary File Retrieval|12212
+TCP/IP Sequence Prediction Blind Reset Spoofing DoS|12213
+Sophos Anti-Virus Detection and Status|12215
+Symantec Firewall Malformed TCP Packet Options Remote DoS|12216
+DNS Server Cache Snooping Remote Information Disclosure|12217
+mDNS Detection (Remote Network)|12218
+Sasser Virus Detection|12219
+Web Server Load Balancer Detection|12224
+Web Server Reverse Proxy Detection|12225
+QuickTime < 6.5.1 .mov File sample-to-chunk Table Data Handling Overflow (Windows)|12226
+HP Web JetAdmin <=7.0 Multiple Vulnerabilities (XSS, Code Exe, DoS, more)|12227
+Microsoft IIS Cookie information disclosure|12229
+rsync Traversal Arbitrary File Creation|12230
+Exim < 3.36 / 4.33 Multiple Remote Overflows|12232
+eMule Web Server Detection|12233
+Terminal Services Web Detection|12234
+MS04-015: Microsoft Help Center Remote Code Execution (840374)|12235
+Lexmark / Dell Printer Unauthenticated Access|12236
+RPC bootparamd NIS Domain Name Disclosure|12237
+NIS passwd.byname Map Disclosure|12238
+Apache < 1.3.31 / 2.0.49 Log Entry Terminal Escape Sequence Injection|12239
+CVS pserver Line Entry Handling Overflow|12240
+AppSocket & socketAPI Printers - Do Not Scan|12241
+H323 Protocol / VoIP Application Detection|12243
+Java (.java / .class) Source Code Disclosure|12245
+Firebird DB Remote Database Name Overflow|12246
+IBM Lotus Domino Server Crafted .nsf Request Traversal Arbitrary File Access|12248
+IBM Lotus Domino ?ReadDesign Request Design Element Disclosure|12249
+RealServer /admin/Docs/default.cfg Information Disclosure|12251
+Korgo Worm Detection|12252
+Mailman Crated Email Remote User Password Disclosure|12253
+UoW imap Server (uw-imapd) Arbitrary Remote File Access|12254
+mod_ssl ssl_util_uuencode_binary Remote Overflow|12255
+jPortal print.inc.php id Parameter SQL Injection|12256
+Mac OS X < 10.3.4 Multiple Vulnerabilities|12257
+NETGEAR Wireless Access Point Hardcoded Default Password|12258
+Subversion Server Detection|12259
+Subversion < 1.0.4 Pre-Commit-Hook Remote Overflow|12260
+Subversion < 1.0.3 apr_time_t data Conversion Remote Overflow|12261
+Open WebMail Multiple Content Header XSS|12262
+IMP Content-Type Header XSS|12263
+Record Route|12264
+CVS < 1.11.17 / 1.12.9 Multiple Vulnerabilities|12265
+W32.Dabber Worm Detection|12266
+MS04-016: Vulnerability in DirectPlay Could Allow Denial of Service (839643)|12267
+Invision Power Board ssi.php f Parameter SQL Injection|12268
+EDIMAX Wireless AP Default Password Check|12269
+Cisco CatOS TCP-ACK Remote DoS (CSCec42751, CSCed45576, CSCed48590)|12270
+MS04-017: Crystal Reports Web Viewer Could Allow Information Disclosure and DoS (842689) (uncredentialed check)|12271
+US Robotics Broadband Router 8003 menu.htm Admin Password Disclosure|12272
+Gallery init.php Authentication Bypass|12278
+Qpopper Authentication Timing Response Account Enumeration|12279
+Apache < 1.3.31 / 2.0.49 Socket Connection Blocking Race Condition DoS|12280
+Horde Chora CVS Viewer diff Utility Arbitrary Command Execution|12281
+Subversion < 1.0.5 svnserver svn:// Protocol Handler Remote Overflow|12284
+Unreal Engine Secure Query Remote Overflow|12285
+Microsoft IIS Download.Ject Trojan Detection|12287
+Global variable settings|12288
+Apache 2.x < 2.0.50 Multiple Remote DoS|12293
+Squid ntlm_check_auth Function NTLM Authentication Helper Password Handling Remote Overflow|12294
+Dell OpenManage Server Administrator Detection|12295
+Linux 2.6 Netfilter TCP Option Matching DoS|12296
+UnrealIRCd IP Cloaking Weakness Information Disclosure|12297
+MS KB870669: ADODB.Stream object from Internet Explorer|12298
+Inktomi Search MS-DOS Device Name Request Path Disclosure|12300
+Citrix MetaFrame XP login.asp NFuse_Message Parameter XSS|12301
+RHEL 2.1 : ghostscript (RHSA-2002:123)|12302
+RHEL 2.1 : xchat (RHSA-2002:124)|12303
+RHEL 2.1 : mailman (RHSA-2002:125)|12304
+RHEL 2.1 : apache (RHSA-2002:126)|12305
+RHEL 2.1 : kernel (RHSA-2002:128)|12306
+RHEL 2.1 : php (RHSA-2002:129)|12307
+RHEL 2.1 : squid (RHSA-2002:130)|12308
+RHEL 2.1 : openssh (RHSA-2002:131)|12309
+RHEL 2.1 : mod_ssl (RHSA-2002:136)|12310

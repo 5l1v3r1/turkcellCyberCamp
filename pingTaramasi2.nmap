@@ -1,0 +1,16 @@
+# Nmap 7.70 scan initiated Sat Jan 26 06:30:03 2019 as: nmap -sP -oA pingTaramasi2 192.168.79.0/24
+Nmap scan report for 192.168.79.1
+Host is up (0.0019s latency).
+MAC Address: 00:50:56:C0:00:08 (VMware)
+Nmap scan report for 192.168.79.2
+Host is up (0.0013s latency).
+MAC Address: 00:50:56:FD:C4:61 (VMware)
+Nmap scan report for 192.168.79.141
+Host is up (0.0021s latency).
+MAC Address: 00:0C:29:64:E0:8D (VMware)
+Nmap scan report for 192.168.79.254
+Host is up (0.00098s latency).
+MAC Address: 00:50:56:F2:0A:B9 (VMware)
+Nmap scan report for 192.168.79.138
+Host is up.
+# Nmap done at Sat Jan 26 06:30:10 2019 -- 256 IP addresses (5 hosts up) scanned in 6.18 seconds

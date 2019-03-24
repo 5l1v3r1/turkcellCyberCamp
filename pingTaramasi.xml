@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.70 scan initiated Sat Jan 26 06:27:25 2019 as: nmap -sP -oA pingTaramasi 192.168.79.0/24 -->
+<nmaprun scanner="nmap" args="nmap -sP -oA pingTaramasi 192.168.79.0/24" start="1548502045" startstr="Sat Jan 26 06:27:25 2019" version="7.70" xmloutputversion="1.04">
+<verbose level="0"/>
+<debugging level="0"/>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.79.1" addrtype="ipv4"/>
+<address addr="00:50:56:C0:00:08" addrtype="mac" vendor="VMware"/>
+<hostnames>
+</hostnames>
+<times srtt="944" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.79.2" addrtype="ipv4"/>
+<address addr="00:50:56:FD:C4:61" addrtype="mac" vendor="VMware"/>
+<hostnames>
+</hostnames>
+<times srtt="2869" rttvar="9229" to="100000"/>
+</host>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.79.254" addrtype="ipv4"/>
+<address addr="00:50:56:F2:0A:B9" addrtype="mac" vendor="VMware"/>
+<hostnames>
+</hostnames>
+<times srtt="605" rttvar="5000" to="100000"/>
+</host>
+<host><status state="up" reason="localhost-response" reason_ttl="0"/>
+<address addr="192.168.79.138" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+</host>
+<runstats><finished time="1548502050" timestr="Sat Jan 26 06:27:30 2019" elapsed="5.00" summary="Nmap done at Sat Jan 26 06:27:30 2019; 256 IP addresses (4 hosts up) scanned in 5.00 seconds" exit="success"/><hosts up="4" down="252" total="256"/>
+</runstats>
+</nmaprun>
